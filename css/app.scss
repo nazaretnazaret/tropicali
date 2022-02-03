@@ -1,7 +1,7 @@
 @import "reset";
 @import "typography";
 
-$primary-color: #f70201;
+$primary-color: #ca774a;
 $body-font: "Jost";
 $body-size: 24px;
 $mq-large: 800px;
@@ -28,7 +28,7 @@ body {
   font-size: $body-size;
 
   height: 100vh;
-// we have to specify a height so that it is aligned vertically 
+  // we have to specify a height so that it is aligned vertically
   @include vertically-middle();
 }
 
