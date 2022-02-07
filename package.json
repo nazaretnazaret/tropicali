@@ -16,15 +16,19 @@
   },
   "homepage": "https://github.com/nazaretnazaret/tropicali#readme",
   "devDependencies": {
+    "autoprefixer": "^9.8.6",
     "browser-sync": "^2.27.7",
     "gh-pages": "^3.2.3",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
     "gulp-dart-sass": "^1.0.2",
     "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.1",
     "gulp-sass": "^4.1.1",
     "gulp-sourcemaps": "^3.0.0",
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "postcss-preset-env": "^6.7.0"
   },
   "dependencies": {
     "ansi-colors": "^1.1.0",
